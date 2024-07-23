@@ -1,4 +1,4 @@
-# Basic-Solar-System-Solar-Simulator
+# Basic Solar System Solar Simulator
 In this project, we simulate the interaction of the planets in a solar system. In addition to the Sun (that we always place at the centre of our simulated universe),
 there could be up to 9 of the other planets in the order they appear relative to their distance to the Sun.  
 If we choose 1, then we will consider Mercury only (in addition to the Sun, of course). 
